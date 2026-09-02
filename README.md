@@ -1,4 +1,4 @@
-# ShabdKavach
+# 🛡️ ShabdKavach 
 
 **Real-time speech enhancement for defence communications.**
 Smart India Hackathon 2026.
