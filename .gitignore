@@ -1,0 +1,28 @@
+# Audio data - hundreds of MB, regenerate with src/prep_data.py
+data/
+*.wav
+*.flac
+*.mp3
+*.ogg
+
+# but DO keep the figures
+!results/*.png
+
+# environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# training artefacts
+results/*.csv
+results/*.log
+*.tar.gz
+
+# keep the trained model - it is only 4.5 MB and it is the point
+!checkpoints/*.pt
+
+# editor
+.idea/
+.vscode/
+.DS_Store
