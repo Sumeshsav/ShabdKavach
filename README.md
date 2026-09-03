@@ -39,9 +39,12 @@ important property for a system carrying orders.
 
 Measured on held-out files the model never saw during training.
 ## Spectogram
-Results on Unseen Data
+Results on Unseen Data:
 Generalization performance on previously unseen samples
- 
+ <p align="center">
+  <img src="results/phone0.png" width="900">
+</p>
+
 Results on Seen Data:
 Performance on samples included in the training/known data distribution
 <p align="center">
