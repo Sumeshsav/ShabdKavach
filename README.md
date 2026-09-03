@@ -127,3 +127,6 @@ LibriSpeech · UrbanSound8K · MUSAN
 **Key references:** Bengio et al. 1994 (why gates are needed) ·
 Chung et al. 2014 (GRU vs LSTM) · Valin 2018 (RNNoise) ·
 Schroter et al. (DeepFilterNet)
+<p align="center">
+  <img src="banner.png" width="900">
+</p>
