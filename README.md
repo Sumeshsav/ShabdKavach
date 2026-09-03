@@ -38,6 +38,12 @@ important property for a system carrying orders.
 ## Results
 
 Measured on held-out files the model never saw during training.
+## Spectogram
+Unseen data-
+Spectogram measured on-
+<p align="center">
+  <img src="spectro.webp" width="900">
+</p>
 
 ### It removes noise
 
@@ -127,6 +133,4 @@ LibriSpeech · UrbanSound8K · MUSAN
 **Key references:** Bengio et al. 1994 (why gates are needed) ·
 Chung et al. 2014 (GRU vs LSTM) · Valin 2018 (RNNoise) ·
 Schroter et al. (DeepFilterNet)
-<p align="center">
-  <img src="spectro.webp" width="900">
-</p>
+
