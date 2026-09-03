@@ -128,5 +128,5 @@ LibriSpeech · UrbanSound8K · MUSAN
 Chung et al. 2014 (GRU vs LSTM) · Valin 2018 (RNNoise) ·
 Schroter et al. (DeepFilterNet)
 <p align="center">
-  <img src="banner.png" width="900">
+  <img src="spectro.webp" width="900">
 </p>
